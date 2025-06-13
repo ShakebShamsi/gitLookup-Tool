@@ -38,7 +38,7 @@ export default function Home() {
                 {/* Right Hero Image */}
                 <div className="w-full lg:w-1/2 mb-10 lg:mb-0">
                     <img
-                        src="./public/img/devpedia_home.png"
+                        src="./src/assets/img/devpedia_home.png"
                         alt="hero illustration"
                         className="w-full max-w mx-auto"
                     />
@@ -48,7 +48,7 @@ export default function Home() {
             {/* Feature Illustration */}
             <div className="flex justify-center mt-16">
                 <img
-                    src="./public/img/devpedia_home_download.png"
+                    src="./src/assets/img/devpedia_home_download.png"
                     alt="feature"
                     className="w-48 sm:w-96"
                 />

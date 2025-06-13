@@ -11,7 +11,7 @@ export default function Footer() {
                     <div>
                         <Link to="/" className="flex items-center space-x-2">
                             <img
-                                src="./public/img/devpedia_logo.png"
+                                src="./src/assets/img/devpedia_logo.png"
                                 alt="Logo"
                                 className="h-14 scale-300 ml-10"
                             />
