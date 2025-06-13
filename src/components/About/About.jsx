@@ -33,7 +33,7 @@ export default function About() {
                 {/* Image */}
                 <div className="w-full lg:w-1/2">
                     <img
-                        src="./src/assets/img/devpedia_about.png"
+                        src="/img/devpedia_about.png"
                         alt="React Development Illustration"
                         className="w-full h-auto rounded-lg shadow-lg animate-fade-in"
                     />
